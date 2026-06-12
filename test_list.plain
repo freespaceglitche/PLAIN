@@ -1,0 +1,5 @@
+create list items
+add "apple" to items
+add "banana" to items
+add "cherry" to items
+say count of items
